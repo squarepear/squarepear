@@ -1,4 +1,4 @@
-### Hi there, I'm [Jeffrey!](jeffreyharmon.me) 👋 
+### Hi there, I'm [Jeffrey!](https://jeffreyharmon.me) 👋 
 
 ## About Me
 - 💾 I know the following languages: JavaScript, TypeScript, Java, C++, and C#
