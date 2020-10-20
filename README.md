@@ -14,9 +14,9 @@
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SquarePear&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SquarePear&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SquarePear&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SquarePear&layout=compact&langs_count=6&theme=dracula" />
 </a>
 </div>
