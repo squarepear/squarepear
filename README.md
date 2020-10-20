@@ -1,4 +1,12 @@
-### Hi there, I'm [Jeffrey!](https://jeffreyharmon.me) 👋 
+![](https://avatars1.githubusercontent.com/u/16364318)
+
+<div align="center">
+  <a href="https://jeffreyharmon.me">
+    <img align="center" src="https://avatars1.githubusercontent.com/u/16364318" width="96" />
+  </a>
+  <h1>Hi there, I'm Jeffrey! 👋</h1>
+  
+</div>
 
 ## About Me
 - 💾 I know the following languages: JavaScript, TypeScript, Java, C++, and C#
