@@ -10,7 +10,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SquarePear&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" right="0">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SquarePear&layout=compact" />
 </a>
 </div>
