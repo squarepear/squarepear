@@ -7,7 +7,7 @@
 </div>
 
 ## About Me
-- 💾 I know the following languages: JavaScript, TypeScript, Java, C++, and C#
+- 💾 I know the following languages: JavaScript, TypeScript, Java, C++, and C# (Currently learning Python and Rust 🎉)
 - 📦 My favorite frameworks/libraries are: [Unity](https://unity.com), [Node.js](https://nodejs.org), [Deno](https://deno.land), [Processing/p5js](https://processing.org), [MongoDB](https://mongodb.com), and [Vue.js](https://vuejs.org)
 - 💬 Ask me about anything [here](https://github.com/SquarePear/SquarePear/issues)
 
