@@ -7,7 +7,8 @@
 </div>
 
 ## About Me
-- 💾 I know the following languages: JavaScript, TypeScript, C++, and Python
+- 💾 I know the following languages: JavaScript, TypeScript, GDScript, C++, and Python
+- 📖 I am familiar with: Java, C#, and Rust
 - 📦 My favorite frameworks/libraries are: [Godot](https://godotengine.org/), [Bun](https://bun.sh/), [Processing/p5js](https://processing.org/), [NixOS/Nix](https://nixos.org/), and [Nuxt](https://nuxt.com/)
 - 💬 Ask me about anything [here](https://github.com/SquarePear/SquarePear/issues)
 
